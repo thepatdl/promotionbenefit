@@ -12,8 +12,6 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
-
-    👇 เพิ่มตรงนี้
     "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
